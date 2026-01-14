@@ -31,8 +31,4 @@ This program is an imitation of the game **Tetris**.
 * **⬆️ Up arrow key**: Rotate the shape while it is falling.
 * **⬇️ Down arrow key**: Speed up the downward movement of the shape if the game feels too slow.
 
----
 
-## 🎓 Project Information
-* **University**: University of Žilina, Faculty of Management Science and Informatics
-* **Course**: Informatics 1
