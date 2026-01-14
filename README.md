@@ -36,7 +36,3 @@ This program is an imitation of the game **Tetris**.
 ## 🎓 Project Information
 * **University**: University of Žilina, Faculty of Management Science and Informatics
 * **Course**: Informatics 1
-* **Author**: Matúš Pytel
-* **Study group**: 5ZYI11
-* **Instructor**: doc. Ing. Ján Janech, PhD.
-* **Date**: 14.11.2024
